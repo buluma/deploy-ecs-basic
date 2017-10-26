@@ -5,7 +5,7 @@ resources:
       - deploy-ecs-basic
     integration: shippable
     pointer:
-      sourceName: "679404489841.dkr.ecr.us-east-1.amazonaws.com/deploy-ecs-basic"
+      sourceName: "487646225214.dkr.ecr.us-west-2.amazonaws.com/shippable"
     seed:
       versionName: "latest"
 
